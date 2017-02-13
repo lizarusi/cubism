@@ -48,7 +48,7 @@
     "url": "https://github.com/square/cubism/issues"
   },
   "dependencies": {
-    "d3": "3.3"
+    "d3": "3.5.11"
   },
   "description": "A JavaScript library for time series visualization.",
   "devDependencies": {
